@@ -1,0 +1,9 @@
+{
+    "author": "TheonlyTazz",
+    "description": "A script that allows modpack developers to prevent certain commands from being ran unless the specific requirements are met. Docs: https://github.com/gcatkjspkgs/command-restrictor/blob/1.19+/README.md",
+    
+    "versions": [9, 10, 11],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
